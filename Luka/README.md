@@ -8,7 +8,7 @@ Luka每日自动签到
 
 使用模块
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/luka/luka_signin.sgmodule
+https://raw.githubusercontent.com/JustGNest/LooN/main/Luka/luka_signin.sgmodule
 
 ### Loon
 
@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/luk
 
 ```ini
 [Remote Script]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/luka/luka_signin.lnscript, tag=Luka_每日签到, enabled=true
+https://raw.githubusercontent.com/JustGNest/LooN/main/Luka/luka_signin.lnscript, tag=Luka_每日签到, enabled=true
 ```
 
 ### Quantumult X
